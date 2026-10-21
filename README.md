@@ -24,7 +24,17 @@
 
 ## ⚙️ Getting Started
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone [https://github.com/privshell/Nexus-ai.git](https://github.com/privshell/Nexus-ai.git)
    cd Nexus-ai
+,,,
+
+Configure your environment variables or API keys in the settings/config file.
+​Build or run according to your deployment requirements.
+
+​🤝 Contributing
+​Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
+​📜 License
+​Distributed under the MIT License. See LICENSE for more information.
