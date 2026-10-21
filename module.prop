@@ -1,0 +1,6 @@
+id=nexus_ai
+name=NEXUS // AI
+version=v1.0.0
+versionCode=100
+author=kreza6173-pixel
+description=Multi-provider AI chat with WebUI. Connect your API keys for OpenAI, Anthropic, Gemini, DeepSeek, Mistral, xAI, Groq, OpenRouter and any OpenAI-compatible endpoint. GitHub integration for repo and issue review.
